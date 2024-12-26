@@ -272,14 +272,12 @@ public class ProductService {
                     product.setMainImageName(mainImageUrl); // 메인 이미지 URL 설정
                 } else {
                     // 메인 이미지가 없으면 기본 이미지 사용
-                    product.setMainImageName("/image/testImage.png"); // 기본 이미지 URL을 설정
+                    product.setMainImageName("/image/default.png"); // 기본 이미지 URL을 설정
                 }
             }
         }
-
         return result;
     }
-
 
     public Product checkPurchase(String memberId, String productId) {
         // 구매자 아이디 가져와서
