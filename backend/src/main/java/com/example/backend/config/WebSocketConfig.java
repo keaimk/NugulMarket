@@ -16,12 +16,10 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
     public void registerStompEndpoints(StompEndpointRegistry registry) {
         // stomp 접속 주소 url = ws://localhost:8080/ws-chat, 프로토콜이 http가 아니다!
         registry.addEndpoint("/wschat") // 연결될 엔드포인트 ?
-                .setAllowedOriginPatterns("http://localhost:5173");
+                .setAllowedOriginPatterns("http://3.35.214.27:8080/");
 
 //                .withSockJS();  // 버전 낮은 브라우저에서도 적용 가능
-// sockJS 쓸거면 , 그 http 붙여야 하는거 같음
-
-
+//                sockJS 쓸거면, 그 http 붙여야 하는거 같음
     }
 
     @Override
@@ -33,7 +31,5 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
         // 해당 주소를 구독하고 있은 클라이언트 들에게 메시지 전달
         // 채팅방 번호로 바꾸면 되고
         registry.enableSimpleBroker("/room");
-
-
     }
 }
