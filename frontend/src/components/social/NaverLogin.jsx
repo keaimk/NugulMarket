@@ -17,7 +17,7 @@ export function NaverLogin() {
       <Image
         boxSize="50px"
         onClick={handleNaverLogin}
-        src="../../../public/image/NaverLogin.png"
+        src="/image/NaverLogin.png"
         cursor="pointer"
       />
     </>

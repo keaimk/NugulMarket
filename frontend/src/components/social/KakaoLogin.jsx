@@ -43,7 +43,7 @@ export function KakaoLogin() {
       <Image
         boxSize="50px"
         onClick={handleKakaoLogin}
-        src="../../../public/image/KakaoLogin.png"
+        src="/image/KakaoLogin.png"
         cursor="pointer"
       />
     </>
