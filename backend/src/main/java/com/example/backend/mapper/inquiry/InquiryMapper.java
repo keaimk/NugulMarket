@@ -142,7 +142,7 @@ public interface InquiryMapper {
     int deleteInquiry(int inquiryId);
 
     @Select("""
-            SELECT inquiry_id, title, content, member_id, answer, inserted
+            SELECT inquiry_id, title, content, member_id, inserted
             FROM inquiry
             WHERE inquiry_id = #{inquiryId}
             """)

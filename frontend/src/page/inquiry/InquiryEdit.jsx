@@ -208,8 +208,9 @@ export function InquiryEdit() {
                   <Button variant={"outline"}>취소</Button>
                 </DialogActionTrigger>
                 <Button
+                  bg={buttonColor}
+                  _hover={{ bg: `${buttonColor}AA` }}
                   loading={progress}
-                  colorPalette={"black"}
                   onClick={handleSaveClick}
                 >
                   저장

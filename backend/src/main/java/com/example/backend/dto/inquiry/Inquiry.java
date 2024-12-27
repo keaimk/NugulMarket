@@ -12,9 +12,6 @@ public class Inquiry {
     private String category;
     private String memberId;
     private String nickname;
-    private String answer;
-
-    //    @JsonFormat(pattern = "yyyy.MM.dd")
     private LocalDateTime inserted;
     private boolean hasAnswer;
 }

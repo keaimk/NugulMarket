@@ -369,13 +369,6 @@ export function ProductHorizontalItem({
               >
                 후기 작성
               </Button>
-              // <Image
-              //   src="/image/Review.png"
-              //   alt="Home Icon"
-              //   boxSize="30px"
-              //   mt={3}
-              //   onClick={() => handleReviewClick(product.productId)}
-              // />
             )}
           </Box>
         ) : (
