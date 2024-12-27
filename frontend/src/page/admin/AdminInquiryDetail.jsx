@@ -24,6 +24,7 @@ import {
   DialogTrigger,
 } from "../../components/ui/dialog.jsx";
 import { toaster } from "../../components/ui/toaster.jsx";
+import { useTheme } from "../../components/context/ThemeProvider.jsx";
 
 // 특정 문의 상세 정보를 표시하고, 해당 문의의 댓글을 조회, 작성, 수정, 삭제 기능을 제공
 export function AdminInquiryDetail({
@@ -35,6 +36,7 @@ export function AdminInquiryDetail({
   const [comments, setComments] = useState([]);
   const [editingCommentId, setEditingCommentId] = useState(null);
   const [savedData, setSavedData] = useState(null);
+  const { fontColor, buttonColor } = useTheme();
   const { id, nickname } = useContext(AuthenticationContext);
 
   function DeleteButton({ onClick, id: memberId }) {
@@ -44,7 +46,11 @@ export function AdminInquiryDetail({
       <>
         <DialogRoot open={open} onOpenChange={(e) => setOpen(e.open)}>
           <DialogTrigger asChild>
-            <Button colorPalette={"red"} mt={2}>
+            <Button
+              bg={buttonColor}
+              style={{ filter: "brightness(85%)" }}
+              mt={2}
+            >
               삭제
             </Button>
           </DialogTrigger>
@@ -59,7 +65,11 @@ export function AdminInquiryDetail({
               <DialogActionTrigger>
                 <Button variant={"outline"}>취소</Button>
               </DialogActionTrigger>
-              <Button colorPalette={"red"} onClick={onClick}>
+              <Button
+                bg={buttonColor}
+                _hover={{ bg: `${buttonColor}AA` }}
+                onClick={onClick}
+              >
                 삭제
               </Button>
             </DialogFooter>
@@ -272,7 +282,8 @@ export function AdminInquiryDetail({
             resize="none"
           />
           <Button
-            colorScheme="teal"
+            bg={buttonColor}
+            _hover={{ bg: `${buttonColor}AA` }}
             height="57px"
             mt={1}
             ml={2}
@@ -318,14 +329,18 @@ export function AdminInquiryDetail({
                 <>
                   <Box mt={-12}>
                     <Button
-                      colorScheme="teal"
+                      bg={buttonColor}
+                      style={{ filter: "brightness(85%)" }}
                       onClick={() => handleCommentSubmit()}
                       mr={2}
                     >
                       저장
                     </Button>
                     <Button
-                      colorScheme="gray"
+                      bg="white"
+                      color="black"
+                      _hover={{ bg: "white" }}
+                      variant={"outline"}
                       onClick={() => {
                         setComment("");
                         setEditingCommentId(null); // 수정 모드 종료
@@ -337,7 +352,9 @@ export function AdminInquiryDetail({
                 </>
               ) : (
                 <Button
-                  colorScheme="white"
+                  bg={`${buttonColor}AA`}
+                  style={{ filter: "brightness(120%)" }}
+                  _hover={{ bg: `${buttonColor}AA` }}
                   onClick={() => handleEditClick(c.id)}
                   mr={2}
                   mt={2}
@@ -349,7 +366,7 @@ export function AdminInquiryDetail({
               {/* 수정 모드일 때는 삭제 버튼 숨기기 */}
               {editingCommentId !== c.id && (
                 <DeleteButton
-                  colorScheme="red"
+                  _hover={{ bg: `${buttonColor}AA` }}
                   onClick={() => handleDeleteClick(c.id)}
                 />
               )}
