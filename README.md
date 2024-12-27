@@ -16,9 +16,9 @@
 
 ## ⚙기술 스택 
 ### FE
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=white"/>
 
 ### BE
 
