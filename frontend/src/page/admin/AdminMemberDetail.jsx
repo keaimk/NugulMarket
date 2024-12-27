@@ -300,7 +300,7 @@ export function AdminMemberDetail() {
                               alt="Kakaopay Icon"
                               width="60px"
                               height="auto"
-                              style={{ marginLeft: "60px" }}
+                              style={{ marginLeft: "65px" }}
                             />
                           )}
                           {product.paymentMethod === null && (

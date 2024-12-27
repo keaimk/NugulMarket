@@ -159,7 +159,7 @@ export function MemberLogin() {
             <Field>
               <PasswordInput
                 size={"xl"}
-                placeholder="비밀번호 입력"
+                placeholder="비밀번호"
                 type="password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
