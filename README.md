@@ -112,8 +112,9 @@
 </details>
 <details>
     <summary>1:1 문의</summary>
-    <img src="https://github.com/user-attachments/assets/46b2a0db-709c-451e-8fa0-abbd7e3d56fb" width="1750">
     <img src="https://github.com/user-attachments/assets/67c74d2a-12e2-4806-a13e-0b34873a31c8" width="1750">
+    <img src="https://github.com/user-attachments/assets/46b2a0db-709c-451e-8fa0-abbd7e3d56fb" width="1750">
+    <img src="https://github.com/user-attachments/assets/66b9d05f-36b9-4047-bb25-ed49decbc663" width="1750" >
 </details>
 <details>
     <summary>관리자 페이지</summary>
