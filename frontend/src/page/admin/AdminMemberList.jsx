@@ -220,6 +220,11 @@ export function AdminMemberList() {
       </Text>
       <Box mb={3}>
         <Flex justify="center" align="center" gap={4}>
+          <select value={search.type} onChange={handleSearchTypeChange}>
+            <option value="all">전체</option>
+            <option value="id">ID</option>
+            <option value="nickname">닉네임</option>
+          </select>
           <Input
             placeholder="검색"
             value={search.keyword}
@@ -227,11 +232,6 @@ export function AdminMemberList() {
             width="100%"
             maxWidth="800px"
           />
-          <select value={search.type} onChange={handleSearchTypeChange}>
-            <option value="all">전체</option>
-            <option value="id">ID</option>
-            <option value="nickname">닉네임</option>
-          </select>
         </Flex>
       </Box>
       <Text mb={4} m={2}>

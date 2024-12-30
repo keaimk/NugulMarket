@@ -130,6 +130,12 @@ export function AdminInquiryList() {
       </Text>
       <Box mb={3}>
         <Flex justify="center" align="center" gap={4}>
+          <select value={search.type} onChange={handleSearchTypeChange}>
+            <option value="all">전체</option>
+            <option value="category">문의 유형</option>
+            <option value="title">문의 제목</option>
+            <option value="member">작성자</option>
+          </select>
           <Input
             placeholder="검색"
             value={search.keyword}
@@ -137,12 +143,6 @@ export function AdminInquiryList() {
             width="100%"
             maxWidth="800px"
           />
-          <select value={search.type} onChange={handleSearchTypeChange}>
-            <option value="all">전체</option>
-            <option value="category">문의 유형</option>
-            <option value="title">문의 제목</option>
-            <option value="member">작성자</option>
-          </select>
         </Flex>
       </Box>
       <Text mb={4} m={2}>
