@@ -5,10 +5,10 @@
 
 사용자들이 더 이상 사용하지 않는 물건들을 쉽고 간편하게 사고팔 수 있는 공간을 제공합니다.
 
-## 👩‍💻개발 기간
+## 📆 개발 기간
 2024.11.26 - 2024.12.23 (총 28일)
 
-## 👫팀원 소개 및 역할
+## 👩‍💻 팀원 소개 및 역할
 
 <table>
   <thead>
@@ -73,3 +73,5 @@
 
 ### BE
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MyBatis-8A2D39?style=flat-square&logo=MyBatis&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" />
+
+## 🌀 ERD
