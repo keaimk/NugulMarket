@@ -1,4 +1,4 @@
-# 너굴마켓
+# 너굴마켓 [너굴마켓 이용하기](http://3.35.214.27:8080/)
 
 ## 🦝 프로젝트 소개
 "너굴마켓"은 "너(You)"와 "굴처럼 쌓여 있는 물건들"의 만남에서 영감을 받아 만들어진 중고거래 플랫폼입니다.
@@ -76,6 +76,8 @@
 </details>
 <details>
     <summary>상품 등록</summary>
+    <img src="https://github.com/user-attachments/assets/d3ecf800-c5d7-403b-94c0-58ee76e9624c" width="1750">
+    <img src="https://github.com/user-attachments/assets/b62f6492-b517-4b69-af40-c21407eec1ff" width="1750">
 </details>
 <details>
     <summary>상품 목록</summary>
@@ -92,17 +94,10 @@
 </details>
 <details>
     <summary>마이페이지</summary>
-    <p>내 정보</p>
     <img src="https://github.com/user-attachments/assets/c9701226-023f-474b-8493-00903ed2696f" width="1750">
-    <p>내가 쓴 글</p>
-    <p>관심 목록</p>
     <img src="https://github.com/user-attachments/assets/d759bf19-cf01-447b-955e-069c9e78eeeb" width="1750">
-    <p>판매 상품</p>
     <img src="https://github.com/user-attachments/assets/d74a7092-ee5b-45eb-a923-1d3f122b8026" width="1750">
-    <p>구매 상품</p>
-    <p>가계부</p>
     <img src="https://github.com/user-attachments/assets/e89c4633-7f81-4961-bfd5-bda005bb5bf6" width="1750">
-    <p>후기</p>
 </details>
 <details>
     <summary>1:1 문의</summary>
@@ -110,9 +105,10 @@
 <details>
     <summary>관리자 페이지</summary>
     <img src="https://github.com/user-attachments/assets/63a22fd1-b9d5-45ce-9d25-a41510558713" width="1750">
-    <img src="https://github.com/user-attachments/assets/4c04ca74-4333-4cc5-97f2-e548dfaf1e00" width="1750">
     <img src="https://github.com/user-attachments/assets/9417bdee-35dc-4b31-a65f-84ec3da99c1f" width="1750">
     <img src="https://github.com/user-attachments/assets/93a5d195-0940-40f2-83b2-77db2031e2f5" width="1750">
+    <img src="https://github.com/user-attachments/assets/4c04ca74-4333-4cc5-97f2-e548dfaf1e00" width="1750">
+    <img src="https://github.com/user-attachments/assets/ef1139ac-9d68-4ea5-9d7d-04dc60d5e7d4" width="1750">
 </details>
 
 ## ⚙기술 스택 
