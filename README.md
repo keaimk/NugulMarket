@@ -13,10 +13,10 @@
 <table style="width:100%; table-layout:fixed; border: 1px solid black; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="width:25%; border: 1px solid black;">김용수 (팀장)</th>
-      <th style="width:25%; border: 1px solid black;">김민경</th>
-      <th style="width:25%; border: 1px solid black;">김수민</th>
-      <th style="width:25%; border: 1px solid black;">이석민</th>
+      <th style="width:35%; border: 1px solid black;">김용수 (팀장)</th>
+      <th style="width:35%; border: 1px solid black;">김민경</th>
+      <th style="width:35%; border: 1px solid black;">김수민</th>
+      <th style="width:35%; border: 1px solid black;">이석민</th>
     </tr>
   </thead>
   <tbody>
