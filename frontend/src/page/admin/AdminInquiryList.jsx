@@ -126,7 +126,7 @@ export function AdminInquiryList() {
   return (
     <Box mt="60px">
       <Text fontSize="2xl" fontWeight="bold" mb={5} m={2}>
-        문의 내역
+        문의 관리
       </Text>
       <Box mb={3}>
         <Flex justify="center" align="center" gap={4}>

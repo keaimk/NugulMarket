@@ -137,7 +137,7 @@ export function AdminLayout() {
                 alt="Report Icon"
                 boxSize="20px"
               />
-              <Text>문의 내역</Text>
+              <Text>문의 관리</Text>
             </Flex>
           </Button>
         </VStack>
