@@ -48,7 +48,7 @@ export function SoldItems() {
         <Text mt={2}>총 {soldList.length}건</Text>
       </HStack>
       <Box
-        height="72vh"
+        height="76vh"
         overflow="hidden"
         display="flex"
         alignItems="center"
