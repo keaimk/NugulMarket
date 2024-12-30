@@ -10,22 +10,6 @@
 
 ## 👫팀원 소개 및 역할
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid black;
-    padding: 10px;
-    word-wrap: break-word;
-  }
-  th {
-    width: 25%;
-  }
-</style>
-
 <table>
   <thead>
     <tr>
