@@ -137,7 +137,7 @@ export function AdminInquiryList() {
             <option value="member">작성자</option>
           </select>
           <Input
-            placeholder="검색"
+            placeholder="검색어를 입력해 주세요."
             value={search.keyword}
             onChange={handleSearchKeywordChange}
             width="100%"
