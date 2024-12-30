@@ -10,9 +10,20 @@
 
 ## 👫팀원 소개 및 역할
 
-| **김용수 (팀장)** | **김민경** | **김수민** | **이석민** |
-|------------------|------------|------------|------------|
-| - GitHub 관리<br>- 채팅<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 채팅 CRUD<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 실시간 채팅<br>- 지도 (카카오 API)<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 카테고리별 검색<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 장소 검색 | - 관리자페이지<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 회원 관리<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 문의 관리 (댓글 CRUD)<br>- 1:1 문의<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 문의 CRUD<br>- 마이페이지<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 가계부<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 결제 (카카오페이) | - 메인페이지<br>- 상품<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 상품 CRUD<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 찜 CRUD<br>- SNS 로그인<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 카카오/네이버<br>- 후기 CRUD<br>- 마이페이지<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 구매, 판매, 찜, 후기 내역 조회 | - 게시판<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 게시판 CRUD<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 댓글 CRUD<br>- 회원<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 회원 CRUD<br>- 마이페이지<br>  &nbsp;&nbsp;&nbsp;&nbsp; - 회원 정보 조회/수정 |
+| **김용수 (팀장)**              | **김민경**                       | **김수민**                       | **이석민**                       |
+|-------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| - GitHub 관리                 | - 관리자페이지                  | - 메인페이지                    | - 게시판                        |
+|   &nbsp;&nbsp;&nbsp;&nbsp; - 채팅 CRUD           |   &nbsp;&nbsp;&nbsp;&nbsp; - 회원 관리          |   &nbsp;&nbsp;&nbsp;&nbsp; - 상품 CRUD        |   &nbsp;&nbsp;&nbsp;&nbsp; - 게시판 CRUD         |
+|   &nbsp;&nbsp;&nbsp;&nbsp; - 실시간 채팅        |   &nbsp;&nbsp;&nbsp;&nbsp; - 문의 관리 (댓글 CRUD) |   &nbsp;&nbsp;&nbsp;&nbsp; - 찜 CRUD         |   &nbsp;&nbsp;&nbsp;&nbsp; - 댓글 CRUD          |
+| - 지도 (카카오 API)            | - 1:1 문의                      | - SNS 로그인                   | - 회원                         |
+|   &nbsp;&nbsp;&nbsp;&nbsp; - 카테고리별 검색    |   &nbsp;&nbsp;&nbsp;&nbsp; - 문의 CRUD         |   &nbsp;&nbsp;&nbsp;&nbsp; - 카카오/네이버   |   &nbsp;&nbsp;&nbsp;&nbsp; - 회원 CRUD          |
+|   &nbsp;&nbsp;&nbsp;&nbsp; - 장소 검색         | - 마이페이지                    | - 후기 CRUD                    | - 마이페이지                   |
+|                               |   &nbsp;&nbsp;&nbsp;&nbsp; - 가계부           | - 마이페이지                   |   &nbsp;&nbsp;&nbsp;&nbsp; - 회원 정보 조회/수정 |
+|                               |   &nbsp;&nbsp;&nbsp;&nbsp; - 결제 (카카오페이) |   &nbsp;&nbsp;&nbsp;&nbsp; - 구매, 판매, 찜, 후기 내역 조회 |                                  |
+
+
+## ⭐ 프로젝트
+
 
 ## ⚙기술 스택 
 ### FE
