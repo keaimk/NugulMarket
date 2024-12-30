@@ -6,7 +6,7 @@
 사용자들이 더 이상 사용하지 않는 물건들을 쉽고 간편하게 사고팔 수 있는 공간을 제공합니다.
 
 ## 📆 개발 기간
-2024.11.26 - 2024.12.23 (총 28일)
+2024.11.26 - 2024.12.23
 
 ## 👩‍💻 팀원 소개 및 역할
 
@@ -31,7 +31,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색
       </td>
       <td>
-        - 관리자페이지<br>
+        - 관리자 페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
         - 1:1 문의<br>
@@ -41,7 +41,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 결제 (카카오페이)
       </td>
       <td>
-        - 메인페이지<br>
+        - 메인 페이지<br>
         - 상품<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 상품 CRUD<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 찜 CRUD<br>
@@ -71,13 +71,14 @@
   <img src="https://github.com/user-attachments/assets/d4d60a38-3d29-477f-bbfc-b6261856306e" width="1750">
 </details>
 <details>
-    <summary>메인페이지</summary>
+    <summary>메인 페이지</summary>
+    <img src="https://github.com/user-attachments/assets/e388ba9f-f95e-4c9b-a2b9-4114ea0ad935" width="1750">
 </details>
 <details>
     <summary>상품 등록</summary>
 </details>
 <details>
-    <summary>상품 리스트</summary>
+    <summary>상품 목록</summary>
 </details>
 <details>
     <summary>게시판</summary>
@@ -87,15 +88,31 @@
 </details>
 <details>
     <summary>지도</summary>
+    <img src="https://github.com/user-attachments/assets/17cf55e4-d798-4780-ac9f-3532923193b5" width="1750">
 </details>
 <details>
     <summary>마이페이지</summary>
+    <p>내 정보</p>
+    <img src="https://github.com/user-attachments/assets/c9701226-023f-474b-8493-00903ed2696f" width="1750">
+    <p>내가 쓴 글</p>
+    <p>관심 목록</p>
+    <img src="https://github.com/user-attachments/assets/d759bf19-cf01-447b-955e-069c9e78eeeb" width="1750">
+    <p>판매 상품</p>
+    <img src="https://github.com/user-attachments/assets/d74a7092-ee5b-45eb-a923-1d3f122b8026" width="1750">
+    <p>구매 상품</p>
+    <p>가계부</p>
+    <img src="https://github.com/user-attachments/assets/e89c4633-7f81-4961-bfd5-bda005bb5bf6" width="1750">
+    <p>후기</p>
 </details>
 <details>
     <summary>1:1 문의</summary>
 </details>
 <details>
     <summary>관리자 페이지</summary>
+    <img src="https://github.com/user-attachments/assets/63a22fd1-b9d5-45ce-9d25-a41510558713" width="1750">
+    <img src="https://github.com/user-attachments/assets/4c04ca74-4333-4cc5-97f2-e548dfaf1e00" width="1750">
+    <img src="https://github.com/user-attachments/assets/9417bdee-35dc-4b31-a65f-84ec3da99c1f" width="1750">
+    <img src="https://github.com/user-attachments/assets/93a5d195-0940-40f2-83b2-77db2031e2f5" width="1750">
 </details>
 
 ## ⚙기술 스택 
