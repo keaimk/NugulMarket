@@ -83,12 +83,14 @@
 </details>
 <details>
     <summary>상품 목록</summary>
+    <img src="https://github.com/user-attachments/assets/be54843a-e5da-4be7-80b5-d8d578f94763" width="1750">
 </details>
 <details>
     <summary>게시판</summary>
 </details>
 <details>
     <summary>채팅</summary>
+    <img src="https://github.com/user-attachments/assets/b7c2a887-424c-4fe4-87e2-e2b2cbb4b384" width="1750">
 </details>
 <details>
     <summary>지도</summary>
@@ -98,8 +100,11 @@
     <summary>마이페이지</summary>
     <img src="https://github.com/user-attachments/assets/c9701226-023f-474b-8493-00903ed2696f" width="1750">
     <img src="https://github.com/user-attachments/assets/d759bf19-cf01-447b-955e-069c9e78eeeb" width="1750">
-    <img src="https://github.com/user-attachments/assets/d74a7092-ee5b-45eb-a923-1d3f122b8026" width="1750">
+    <img src="https://github.com/user-attachments/assets/2075e938-6b6f-46a5-ac97-ec114c00c27a" width="1750">
+    <img src="https://github.com/user-attachments/assets/e52f4d1a-eb1e-4d75-b07b-5370dc5caf7c" width="1750">
     <img src="https://github.com/user-attachments/assets/e89c4633-7f81-4961-bfd5-bda005bb5bf6" width="1750">
+    <img src="https://github.com/user-attachments/assets/0c12a49a-c1f7-4ccb-b878-e796f61708f5" width="1750">
+    <img src="https://github.com/user-attachments/assets/51615020-2511-4244-9ffd-b8d4d4ac144d" width="1750">
 </details>
 <details>
     <summary>1:1 문의</summary>
