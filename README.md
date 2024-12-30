@@ -67,6 +67,8 @@
 ## ⭐ 프로젝트
 <details>
     <summary>로그인 및 회원가입</summary>
+    ![로그인](https://github.com/user-attachments/assets/f03fc6eb-7d84-4742-afaf-f15149cbc847)
+    ![회원가입](https://github.com/user-attachments/assets/d4d60a38-3d29-477f-bbfc-b6261856306e)
 </details>
 <details>
     <summary>메인페이지</summary>
@@ -91,6 +93,9 @@
 </details>
 <details>
     <summary>1:1 문의</summary>
+</details>
+<details>
+    <summary>관리자 페이지</summary>
 </details>
 
 ## ⚙기술 스택 
