@@ -10,18 +10,34 @@
 
 ## 👫팀원 소개 및 역할
 
-<table style="width:120%; table-layout:fixed; border: 1px solid black; border-collapse: collapse;">
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    word-wrap: break-word;
+  }
+  th {
+    width: 25%;
+  }
+</style>
+
+<table>
   <thead>
     <tr>
-      <th style="width:30%; border: 1px solid black;">김용수 (팀장)</th>
-      <th style="width:30%; border: 1px solid black;">김민경</th>
-      <th style="width:30%; border: 1px solid black;">김수민</th>
-      <th style="width:30%; border: 1px solid black;">이석민</th>
+      <th>김용수 (팀장)</th>
+      <th>김민경</th>
+      <th>김수민</th>
+      <th>이석민</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid black; vertical-align: top;">
+      <td>
         - GitHub 관리<br>
         - 채팅<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 채팅 CRUD<br>
@@ -30,7 +46,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 카테고리별 검색<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색
       </td>
-      <td style="border: 1px solid black; vertical-align: top;">
+      <td>
         - 관리자페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
@@ -40,7 +56,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 결제 (카카오페이)
       </td>
-      <td style="border: 1px solid black; vertical-align: top;">
+      <td>
         - 메인페이지<br>
         - 상품<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 상품 CRUD<br>
@@ -51,7 +67,7 @@
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 구매, 판매, 찜, 후기 내역 조회
       </td>
-      <td style="border: 1px solid black; vertical-align: top;">
+      <td>
         - 게시판<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 게시판 CRUD<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 댓글 CRUD<br>
@@ -63,9 +79,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
 
 ## ⭐ 프로젝트
 
