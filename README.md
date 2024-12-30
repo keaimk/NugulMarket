@@ -65,7 +65,33 @@
 </table>
 
 ## ⭐ 프로젝트
-
+<details>
+    <summary>로그인 및 회원가입</summary>
+</details>
+<details>
+    <summary>메인페이지</summary>
+</details>
+<details>
+    <summary>상품 등록</summary>
+</details>
+<details>
+    <summary>상품 리스트</summary>
+</details>
+<details>
+    <summary>게시판</summary>
+</details>
+<details>
+    <summary>채팅</summary>
+</details>
+<details>
+    <summary>지도</summary>
+</details>
+<details>
+    <summary>마이페이지</summary>
+</details>
+<details>
+    <summary>1:1 문의</summary>
+</details>
 
 ## ⚙기술 스택 
 ### FE
@@ -75,3 +101,4 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MyBatis-8A2D39?style=flat-square&logo=MyBatis&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" />
 
 ## 🌀 ERD
+![NulgulMarket_ERD](https://github.com/user-attachments/assets/13f56ab6-8481-4a58-a8ee-10af1dab2352)
