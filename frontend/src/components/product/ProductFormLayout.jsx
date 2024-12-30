@@ -97,11 +97,10 @@ export function ProductImageSection({
         )}
 
         <Text fontSize="sm" color="blue.400" whiteSpace="pre-line">
-          - 가장 처음 이미지가 대표이미지입니다.{"\n"}- 이미지는 상품 등록 시
-          정사각형으로 짤려서 등록됩니다.{"\n"}- 이미지를 클릭하여 삭제할 수
-          있습니다. {"\n"}- 큰 이미지일경우 이미지가 깨지는 경우가 발생할 수
-          있습니다. {"\n"}- 각 파일은 1MB 이하, 총 용량은 10MB 이하이어야
-          합니다.
+          - 가장 처음 이미지가 대표 이미지입니다.{"\n"}- 이미지는 상품 등록 시
+          정사각형으로 잘려서 등록됩니다.{"\n"}- 이미지를 클릭하여 삭제할 수
+          있습니다. {"\n"}- 큰 이미지일 경우 이미지가 깨지는 경우가 발생할 수
+          있습니다. {"\n"}- 각 파일은 1MB 이하, 총용량은 10MB 이하이어야 합니다.
         </Text>
       </Box>
     </HStack>
@@ -143,7 +142,7 @@ export function ProductNameSection({
           <Input
             size="xl"
             value={productName}
-            placeholder="상품명을 입력하세요"
+            placeholder="상품명을 입력해 주세요."
             onChange={onProductNameChange}
           />
         </Box>
@@ -204,7 +203,7 @@ export function ProductPaymentSection({
             <Input
               value={price}
               onChange={onPriceChange}
-              placeholder="가격을 입력하세요"
+              placeholder="가격을 입력해 주세요."
             />
           </InputGroup>
         )}
@@ -225,7 +224,7 @@ export function ProductDescriptionSection({
       </Text>
       <Flex alignItems="center" w="85%">
         <Textarea
-          placeholder="등록할 상품의 게시글 내용을 작성해주세요."
+          placeholder="등록할 상품의 설명을 작성해 주세요."
           fontSize="md"
           h={150}
           value={description}
@@ -248,7 +247,7 @@ export function ProductLocationSection({ location, onModalOpen }) {
           <Input
             value={location?.name || ""}
             onClick={onModalOpen}
-            placeholder="거래 희망 장소를 추가하세요"
+            placeholder="희망하는 거래 장소를 추가해 주세요."
             readOnly
           />
         </InputGroup>
