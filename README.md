@@ -107,7 +107,7 @@
     <img src="https://github.com/user-attachments/assets/2075e938-6b6f-46a5-ac97-ec114c00c27a" width="1750">
     <img src="https://github.com/user-attachments/assets/e52f4d1a-eb1e-4d75-b07b-5370dc5caf7c" width="1750">
     <img src="https://github.com/user-attachments/assets/e89c4633-7f81-4961-bfd5-bda005bb5bf6" width="1750">
-    <img src="https://github.com/user-attachments/assets/51615020-2511-4244-9ffd-b8d4d4ac144d" width="1750">
+    <img src="https://github.com/user-attachments/assets/3bb5e589-60bb-4fa7-8d97-80c4f0ca4395" width="1750">
     <img src="https://github.com/user-attachments/assets/0c12a49a-c1f7-4ccb-b878-e796f61708f5" width="1750">
 </details>
 <details>
