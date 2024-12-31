@@ -40,7 +40,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 CRUD<br>
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 결제 (카카오페이)
+        &nbsp;&nbsp;&nbsp;&nbsp;- 결제 (카카오페이)<br>
+        - UI 디자인
       </td>
       <td>
         - 메인 페이지<br>
@@ -51,7 +52,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 카카오/네이버<br>
         - 후기 CRUD<br>
         - 마이페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 구매, 판매, 찜, 후기 내역 조회
+        &nbsp;&nbsp;&nbsp;&nbsp;- 구매, 판매, 찜, 후기 내역 조회<br>
+        - UI 디자인
       </td>
       <td>
         - 게시판<br>
