@@ -40,7 +40,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 CRUD<br>
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 결제 (카카오페이)<br>
+        - 결제 (카카오페이)<br>
         - UI 디자인
       </td>
       <td>
