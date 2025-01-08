@@ -98,6 +98,10 @@
     <img src="https://github.com/user-attachments/assets/b7c2a887-424c-4fe4-87e2-e2b2cbb4b384" width="1750">
 </details>
 <details>
+    <summary>결제</summary>
+    <img src="https://github.com/user-attachments/assets/ac07ff72-5405-4790-bd7f-c04b23bfb931" width="1750">
+</details>
+<details>
     <summary>지도</summary>
     <img src="https://github.com/user-attachments/assets/17cf55e4-d798-4780-ac9f-3532923193b5" width="1750">
 </details>
