@@ -27,10 +27,9 @@
         - GitHub 관리<br>
         - 채팅<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 채팅 CRUD<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 실시간 채팅<br>
         - 지도 (카카오 API)<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 카테고리별 검색<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색
+         &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 카테고리별 검색
       </td>
       <td>
         - 관리자 페이지<br>
@@ -38,10 +37,11 @@
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
         - 1:1 문의<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 CRUD<br>
+        - 결제 (카카오페이)<br>
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
-        - 결제 (카카오페이)<br>
-        - UI 디자인
+        - UI 디자인<br>
+         (메인 로고 및 메인 이미지 드로잉)
       </td>
       <td>
         - 메인 페이지<br>
