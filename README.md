@@ -25,42 +25,39 @@
     <tr>
       <td>
         - GitHub 관리<br>
-        - 채팅<br>
+        - 실시간 채팅<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 채팅 CRUD<br>
         - 지도 (카카오 API)<br>
          &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 카테고리별 검색
       </td>
       <td>
-        - 관리자 페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
         - 1:1 문의<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 CRUD<br>
         - 결제 (카카오페이)<br>
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
-        - UI 디자인<br>
-         (메인 로고 및 메인 이미지 드로잉)
+        - 관리자 페이지<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
+        - UI 디자인 (메인 로고 및 메인 이미지 드로잉)
       </td>
       <td>
+         - SNS 로그인<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 네이버/카카오<br>
         - 메인 페이지<br>
         - 상품<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 상품 CRUD<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 찜 CRUD<br>
-        - SNS 로그인<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 카카오/네이버<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 상품/찜 CRUD<br>
         - 후기 CRUD<br>
         - 마이페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 구매, 판매, 찜, 후기 내역 조회<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- 구매/판매/찜/후기 내역 조회<br>
         - UI 디자인
       </td>
       <td>
+        - 로그인 및 회원가입<br>
         - 게시판<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 게시판 CRUD<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 댓글 CRUD<br>
-        - 회원<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 회원 CRUD<br>
         - 마이페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 회원 정보 조회/수정
       </td>
