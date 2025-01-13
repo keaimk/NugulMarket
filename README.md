@@ -40,7 +40,7 @@
         - 관리자 페이지<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
         &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
-        - UI 디자인 (메인 로고 및 메인 이미지 드로잉)
+        - UI 디자인
       </td>
       <td>
          - SNS 로그인<br>
