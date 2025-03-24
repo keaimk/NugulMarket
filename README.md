@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c60bd5ed-a2cb-4fbd-a4a1-335e7397925c" alt="Image">
+</p>
+
 # 너굴마켓
 
 ## 🦝 프로젝트 소개
@@ -11,55 +15,77 @@
 2024.11.26 - 2024.12.23
 
 ## 👩‍💻 팀원 소개 및 역할
-
 <table>
   <thead>
     <tr>
-      <th>김용수 (팀장)</th>
-      <th>김민경</th>
-      <th>김수민</th>
-      <th>이석민</th>
+      <th>이름</th>
+      <th>역할</th>
+      <th>담당 업무</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>김용수</td>
+      <td>팀장</td>
       <td>
-        - GitHub 관리<br>
-        - 실시간 채팅<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 채팅 CRUD<br>
-        - 지도 (카카오 API)<br>
-         &nbsp;&nbsp;&nbsp;&nbsp;- 장소 검색<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 카테고리별 검색
+        <ul>
+          <li>GitHub 관리</li>
+          <li>실시간 채팅</li>
+          <li>지도 (카카오 API)</li>
+          <ul>
+            <li>장소/카테고리별 검색</li>
+          </ul>
+        </ul>
       </td>
+    </tr>
+    <tr>
+      <td>김민경</td>
+      <td>팀원</td>
       <td>
-        - 1:1 문의<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 문의 CRUD<br>
-        - 결제 (카카오페이)<br>
-        - 마이페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 가계부<br>
-        - 관리자 페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 회원 관리<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 문의 관리 (댓글 CRUD)<br>
-        - UI 디자인
+        <ul>
+          <li>관리자 페이지</li>
+          <ul>
+            <li>회원 관리</li>
+            <li>문의 관리</li>
+          </ul>
+          <li>1:1 문의</li>
+          <li>결제 (카카오페이)</li>
+          <li>마이페이지</li>
+          <ul>
+            <li>가계부</li>
+          </ul>
+          <li>UI 디자인</li>
+        </ul>
       </td>
+    </tr>
+    <tr>
+      <td>김수민</td>
+      <td>팀원</td>
       <td>
-         - SNS 로그인<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 네이버/카카오<br>
-        - 메인 페이지<br>
-        - 상품<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 상품/찜 CRUD<br>
-        - 후기 CRUD<br>
-        - 마이페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 구매/판매/찜/후기 내역 조회<br>
-        - UI 디자인
+        <ul>
+          <li>SNS 로그인 (네이버/카카오)</li>
+          <li>메인 페이지</li>
+          <li>상품, 찜, 후기 등록</li>
+          <li>마이페이지
+          <ul>
+            <li>프로필, 내 정보, 관심 목록, 판매/구매 상품, 후기</li>
+          </ul>
+          <li>UI 디자인</li>
+        </ul>
       </td>
+    </tr>
+    <tr>
+      <td>이석민</td>
+      <td>팀원</td>
       <td>
-        - 로그인 및 회원가입<br>
-        - 게시판<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 게시판 CRUD<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 댓글 CRUD<br>
-        - 마이페이지<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;- 회원 정보 조회/수정
+        <ul>
+          <li>로그인 및 회원가입</li>
+          <li>게시판</li>
+          <li>마이페이지</li>
+          <ul>
+            <li>내가 쓴 글</li>
+          </ul>
+        </ul>
       </td>
     </tr>
   </tbody>
@@ -128,13 +154,16 @@
     <img src="https://github.com/user-attachments/assets/ef1139ac-9d68-4ea5-9d7d-04dc60d5e7d4" width="1750">
 </details>
 
-## ⚙기술 스택 
+## ⚙ 기술 스택 
 ### FE
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" width="100" height="30"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white" width="100" height="30"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=Chakra%20UI&logoColor=white" width="100" height="30"/>
 
 ### BE
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MyBatis-8A2D39?style=flat-square&logo=MyBatis&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/MariaDB-003B57?style=flat-square&logo=MariaDB&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" style="width: 100px; height: 30px; object-fit: contain;" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" width="100" height="30"/>
+
+## 🔎 작품 구성도
+<img src="https://github.com/user-attachments/assets/f79ef18b-2d1a-47ca-be65-ae2178c84a32" width="700">
 
 ## 🌀 ERD
 ![NulgulMarket_ERD](https://github.com/user-attachments/assets/13f56ab6-8481-4a58-a8ee-10af1dab2352)
