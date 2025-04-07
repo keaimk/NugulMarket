@@ -102,19 +102,16 @@
     <img src="https://github.com/user-attachments/assets/e388ba9f-f95e-4c9b-a2b9-4114ea0ad935" width="1750">
 </details>
 <details>
-    <summary>상품 등록</summary>
+    <summary>상품 등록 및 목록</summary>
     <img src="https://github.com/user-attachments/assets/d3ecf800-c5d7-403b-94c0-58ee76e9624c" width="1750">
     <img src="https://github.com/user-attachments/assets/b62f6492-b517-4b69-af40-c21407eec1ff" width="1750">
-</details>
-<details>
-    <summary>상품 목록</summary>
     <img src="https://github.com/user-attachments/assets/be54843a-e5da-4be7-80b5-d8d578f94763" width="1750">
 </details>
 <details>
     <summary>게시판</summary>
     <img src="https://github.com/user-attachments/assets/3141d35d-f60e-42a5-815a-0dd8ca011a5c" width="1750">
     <img src="https://github.com/user-attachments/assets/41d81bbd-73a9-4f63-a259-693883292754" width="1750">
-    <img src="https://github.com/user-attachments/assets/06b0067d-cd38-41a3-91e7-d51d9bf28787" width="1750">
+    <img src="https://github.com/user-attachments/assets/06b0067d-cd38-41a3-91e7-d51d9bf28787" width="600">
 </details>
 <details>
     <summary>채팅</summary>
@@ -122,7 +119,9 @@
 </details>
 <details>
     <summary>결제</summary>
-    <img src="https://github.com/user-attachments/assets/ac07ff72-5405-4790-bd7f-c04b23bfb931" width="1750">
+   <img src="https://github.com/user-attachments/assets/e656b4c3-0f11-4b3b-b57b-eb2ebdead7b3" width="1750">
+   <img src="https://github.com/user-attachments/assets/2874380d-128c-47b0-8c7b-e6f66fc41747" width="1750">
+   <img src="https://github.com/user-attachments/assets/60dda878-cf43-44ef-980b-ca721818065c" width="1750">
 </details>
 <details>
     <summary>지도</summary>
